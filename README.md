@@ -1,4 +1,4 @@
-# Wumpus Micropython
+# Wumpus-micropython
 
 ## Description
 
